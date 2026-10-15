@@ -10,3 +10,11 @@ const ph=(q||n||p||t)?0:LOCKED;const badge=d=>(d.kind=='program'||d.kind=='live_
 const h=LOCKED;$('#hidden').textContent=h;$('#lockbox').style.display=h?'block':'none';}
 ['#q','#fn','#fp','#ft'].forEach(s=>$(s).addEventListener('input',draw));draw();
 if(location.hash=='#thanks')$('#thanks').textContent='Thanks! Deal received.';
+const df=$('#dealform');
+if(df){df.addEventListener('submit',e=>{
+const err=$('#formerr'),btn=$('#sendbtn'),proof=$('#proof');
+err.style.display='none';
+if(!proof.files.length){e.preventDefault();err.textContent='Please attach a screenshot or offer email as proof before sending.';err.style.display='block';proof.scrollIntoView({behavior:'smooth',block:'center'});return;}
+if(!df.brand.value.trim()||!df.pay.value.trim()){e.preventDefault();err.textContent='Please fill in the brand and what they paid.';err.style.display='block';return;}
+btn.disabled=true;btn.textContent='Sending… (can take 10-20s with a photo)';
+});}
