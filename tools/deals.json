@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "free_count": 10,
   "programs": [
     {"brand": "Webflow", "niche": "Design / web", "deal_type": "Commission", "pay": "50% of first subscription, up to 12 months", "url": "https://www.webflow.com/solutions/affiliates", "checked": "2026-10-16"},
@@ -12,11 +12,11 @@
     {"brand": "systeme.io", "niche": "Marketing tools", "deal_type": "Commission", "pay": "60% lifetime recurring", "url": "https://www.systeme.io/affiliate-program", "checked": "2026-10-16"},
     {"brand": "GetResponse", "niche": "Email / newsletters", "deal_type": "Commission", "pay": "40% for 12 months, up to 60% at higher tiers", "url": "https://www.getresponse.com/affiliate-programs", "checked": "2026-10-16"},
     {"brand": "Surfshark", "niche": "VPN / security", "deal_type": "Commission", "pay": "40% revenue share on new sales", "url": "https://www.surfshark.com/affiliate", "checked": "2026-10-16"},
-    {"brand": "Fiverr", "niche": "Freelance marketplace", "deal_type": "Commission", "pay": "25% of first order + 10% of orders for 12 months", "url": "https://fiverr.com/partnerships/affiliates", "new": true, "added": "2026-10-15"},
-    {"brand": "Bluehost", "niche": "Web hosting", "deal_type": "Flat fee", "pay": "From $65 per qualified sale", "url": "https://www.bluehost.com/affiliates", "new": true, "added": "2026-10-15"},
-    {"brand": "NordVPN", "niche": "VPN / security", "deal_type": "Commission", "pay": "40% of new sales (100% on 1-month plans) + 30% of renewals", "url": "https://nordvpn.com/en/affiliate/", "new": true, "added": "2026-10-15"},
-    {"brand": "Riverside", "niche": "Podcast / video tools", "deal_type": "Commission", "pay": "Up to 20% (up to $85+ per sale)", "url": "https://riverside.com/affiliate-program", "new": true, "added": "2026-10-15"},
-    {"brand": "OpusClip", "niche": "AI tools", "deal_type": "Commission", "pay": "25% recurring for the first year", "url": "https://opus.pro/affiliate", "new": true, "added": "2026-10-15"},
+    {"brand": "Fiverr", "niche": "Freelance marketplace", "deal_type": "Commission", "pay": "25% of first order + 10% of orders for 12 months", "url": "https://fiverr.com/partnerships/affiliates", "new": true, "added": "2026-10-15", "checked": "2026-10-17"},
+    {"brand": "Bluehost", "niche": "Web hosting", "deal_type": "Flat fee", "pay": "From $65 per qualified sale", "url": "https://www.bluehost.com/affiliates", "new": true, "added": "2026-10-15", "checked": "2026-10-17"},
+    {"brand": "NordVPN", "niche": "VPN / security", "deal_type": "Commission", "pay": "40% of new sales (100% on 1-month plans) + 30% of renewals", "url": "https://nordvpn.com/en/affiliate/", "new": true, "added": "2026-10-15", "checked": "2026-10-17"},
+    {"brand": "Riverside", "niche": "Podcast / video tools", "deal_type": "Commission", "pay": "Up to 20% (up to $85+ per sale)", "url": "https://riverside.com/affiliate-program", "new": true, "added": "2026-10-15", "checked": "2026-10-17"},
+    {"brand": "OpusClip", "niche": "AI tools", "deal_type": "Commission", "pay": "25% recurring for the first year", "url": "https://opus.pro/affiliate", "new": true, "added": "2026-10-15", "checked": "2026-10-17"},
     {"brand": "Synthesia", "niche": "AI tools", "deal_type": "Commission", "pay": "25% of Starter and Creator plan payments", "url": "https://synthesia.io/partners/affiliates", "new": true, "added": "2026-10-15"},
     {"brand": "Epidemic Sound", "niche": "Music for creators", "deal_type": "Revenue share", "pay": "50% of first 12 months, after 12 referrals (credits before that)", "url": "https://www.epidemicsound.com/community-program/", "new": true, "added": "2026-10-15"},
     {"brand": "AWeber", "niche": "Email / newsletters", "deal_type": "Commission", "pay": "30% recurring, up to 50% at volume", "url": "https://www.aweber.com/affiliate.htm"},
@@ -42,7 +42,9 @@
     {"brand": "Skillshare", "niche": "Online courses", "deal_type": "Commission", "pay": "20%, up to $34 per new customer", "url": "https://www.skillshare.com/en/affiliates"},
     {"brand": "Coursera", "niche": "Online courses", "deal_type": "Commission", "pay": "15% to 45% on eligible purchases", "url": "https://www.coursera.org/about/affiliates"},
     {"brand": "Teachable", "niche": "Online courses", "deal_type": "Commission", "pay": "30% recurring for 12 months", "url": "https://www.teachable.com/partners", "new": true, "added": "2026-10-16"},
-    {"brand": "MailerLite", "niche": "Email / newsletters", "deal_type": "Commission", "pay": "30% recurring for life", "url": "https://www.mailerlite.com/affiliate", "new": true, "added": "2026-10-16"}
+    {"brand": "MailerLite", "niche": "Email / newsletters", "deal_type": "Commission", "pay": "30% recurring for life", "url": "https://www.mailerlite.com/affiliate", "new": true, "added": "2026-10-16"},
+    {"brand": "Descript", "niche": "Podcast / video tools", "deal_type": "Flat fee", "pay": "$25 per new subscriber", "url": "https://www.descript.com/affiliate", "new": true, "added": "2026-10-17"},
+    {"brand": "Pictory", "niche": "AI tools", "deal_type": "Commission", "pay": "40% of first payment (one-time)", "url": "https://partners.pictory.ai/signup/40690", "new": true, "added": "2026-10-17"}
   ],
   "sponsors": [
     {"brand": "TECNO", "niche": "Tech / phones", "url": "https://www.tecno-mobile.com/"},
