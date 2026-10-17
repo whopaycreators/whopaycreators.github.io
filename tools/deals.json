@@ -1,6 +1,7 @@
 {
   "updated": "2026-10-17",
-  "free_count": 10,
+  "free_count": 5,
+  "free_brands": ["systeme.io", "Shopify", "HubSpot", "Kinsta", "Hostinger"],
   "programs": [
     {"brand": "Webflow", "niche": "Design / web", "deal_type": "Commission", "pay": "50% of first subscription, up to 12 months", "url": "https://www.webflow.com/solutions/affiliates", "checked": "2026-10-16"},
     {"brand": "HubSpot", "niche": "Business software", "deal_type": "Commission", "pay": "30% recurring for up to 1 year", "url": "https://www.hubspot.com/partners/affiliates", "checked": "2026-10-16"},

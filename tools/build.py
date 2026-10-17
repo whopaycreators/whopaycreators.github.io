@@ -13,10 +13,14 @@ esc = html.escape
 ANY = "Any (YouTube, IG, X, blogs, TikTok)"
 
 # ---- free page ----
+# Free picks: "free_brands" (in that order) if set, else the first free_count programs.
+by_name = {p["brand"]: p for p in progs}
+free_src = [by_name[b] for b in d.get("free_brands", []) if b in by_name][:free_n] or progs[:free_n]
+free_n = len(free_src)
 free = [{
     "brand": p["brand"], "niche": p["niche"], "platform": ANY, "deal_type": p["deal_type"],
     "pay": p["pay"], "creator_size": "Open to all sizes", "source": p["url"],
-    "how_to_apply": p["url"], "date_seen": upd, "kind": "program"} for p in progs[:free_n]]
+    "how_to_apply": p["url"], "date_seen": upd, "kind": "program"} for p in free_src]
 idx_path = f"{site}/index.html"
 s = open(idx_path).read()
 new_script = ("<script>const DEALS=" + json.dumps(free, ensure_ascii=False) +
