@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "free_count": 5,
   "free_brands": ["systeme.io", "Shopify", "HubSpot", "Kinsta", "Hostinger"],
   "programs": [
@@ -18,11 +18,11 @@
     {"brand": "NordVPN", "niche": "VPN / security", "deal_type": "Commission", "pay": "40% of new sales (100% on 1-month plans) + 30% of renewals", "url": "https://nordvpn.com/en/affiliate/", "new": true, "added": "2026-10-15", "checked": "2026-10-17"},
     {"brand": "Riverside", "niche": "Podcast / video tools", "deal_type": "Commission", "pay": "Up to 20% (up to $85+ per sale)", "url": "https://riverside.com/affiliate-program", "new": true, "added": "2026-10-15", "checked": "2026-10-17"},
     {"brand": "OpusClip", "niche": "AI tools", "deal_type": "Commission", "pay": "25% recurring for the first year", "url": "https://opus.pro/affiliate", "new": true, "added": "2026-10-15", "checked": "2026-10-17"},
-    {"brand": "Synthesia", "niche": "AI tools", "deal_type": "Commission", "pay": "25% of Starter and Creator plan payments", "url": "https://synthesia.io/partners/affiliates", "new": true, "added": "2026-10-15"},
-    {"brand": "Epidemic Sound", "niche": "Music for creators", "deal_type": "Revenue share", "pay": "50% of first 12 months, after 12 referrals (credits before that)", "url": "https://www.epidemicsound.com/community-program/", "new": true, "added": "2026-10-15"},
-    {"brand": "AWeber", "niche": "Email / newsletters", "deal_type": "Commission", "pay": "30% recurring, up to 50% at volume", "url": "https://www.aweber.com/affiliate.htm"},
-    {"brand": "ElevenLabs", "niche": "AI tools", "deal_type": "Commission", "pay": "22% for 12 months", "url": "https://elevenlabs.io/affiliates"},
-    {"brand": "HeyGen", "niche": "AI tools", "deal_type": "Commission", "pay": "35% recurring for 3 months (50% bonus through Oct 31)", "url": "https://www.heygen.com/affiliate"},
+    {"brand": "Synthesia", "niche": "AI tools", "deal_type": "Commission", "pay": "25% of Starter and Creator plan payments", "url": "https://synthesia.io/partners/affiliates", "new": true, "added": "2026-10-15", "checked": "2026-10-18"},
+    {"brand": "Epidemic Sound", "niche": "Music for creators", "deal_type": "Revenue share", "pay": "50% of first 12 months, after 12 referrals (credits before that)", "url": "https://www.epidemicsound.com/community-program/", "new": true, "added": "2026-10-15", "checked": "2026-10-18"},
+    {"brand": "AWeber", "niche": "Email / newsletters", "deal_type": "Commission", "pay": "30% recurring, up to 50% at volume", "url": "https://www.aweber.com/advocates.htm", "checked": "2026-10-18"},
+    {"brand": "ElevenLabs", "niche": "AI tools", "deal_type": "Commission", "pay": "Up to 22% for 12 months", "url": "https://elevenlabs.io/affiliates", "checked": "2026-10-18"},
+    {"brand": "HeyGen", "niche": "AI tools", "deal_type": "Commission", "pay": "35% recurring for 3 months (50% bonus through Oct 31)", "url": "https://www.heygen.com/affiliate", "checked": "2026-10-18"},
     {"brand": "Amazon Associates", "niche": "Shopping", "deal_type": "Commission", "pay": "Up to 10% by category", "url": "https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ"},
     {"brand": "SiteGround", "niche": "Web hosting", "deal_type": "Flat fee", "pay": "$50 to $100 per hosting sale + 60% of first year on other services", "url": "https://www.siteground.com/affiliates"},
     {"brand": "DreamHost", "niche": "Web hosting", "deal_type": "Flat fee", "pay": "Up to $1,000 per referral", "url": "https://www.dreamhost.com/affiliates/"},
@@ -45,7 +45,9 @@
     {"brand": "Teachable", "niche": "Online courses", "deal_type": "Commission", "pay": "30% recurring for 12 months", "url": "https://www.teachable.com/partners", "new": true, "added": "2026-10-16"},
     {"brand": "MailerLite", "niche": "Email / newsletters", "deal_type": "Commission", "pay": "30% recurring for life", "url": "https://www.mailerlite.com/affiliate", "new": true, "added": "2026-10-16"},
     {"brand": "Descript", "niche": "Podcast / video tools", "deal_type": "Flat fee", "pay": "$25 per new subscriber", "url": "https://www.descript.com/affiliate", "new": true, "added": "2026-10-17"},
-    {"brand": "Pictory", "niche": "AI tools", "deal_type": "Commission", "pay": "40% of first payment (one-time)", "url": "https://partners.pictory.ai/signup/40690", "new": true, "added": "2026-10-17"}
+    {"brand": "Pictory", "niche": "AI tools", "deal_type": "Commission", "pay": "40% of first payment (one-time)", "url": "https://partners.pictory.ai/signup/40690", "new": true, "added": "2026-10-17"},
+    {"brand": "Kajabi", "niche": "Courses / memberships", "deal_type": "Commission", "pay": "30% lifetime recurring", "url": "https://partners.kajabi.com/pp", "new": true, "added": "2026-10-18", "checked": "2026-10-18"},
+    {"brand": "Podia", "niche": "Courses / digital products", "deal_type": "Commission", "pay": "30% for 12 months", "url": "https://help.podia.com/en/articles/11370941-becoming-a-podia-affiliate", "new": true, "added": "2026-10-18", "checked": "2026-10-18"}
   ],
   "sponsors": [
     {"brand": "TECNO", "niche": "Tech / phones", "url": "https://www.tecno-mobile.com/"},
