@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "free_count": 5,
   "free_brands": ["systeme.io", "Shopify", "HubSpot", "Kinsta", "Hostinger"],
   "programs": [
@@ -23,11 +23,11 @@
     {"brand": "AWeber", "niche": "Email / newsletters", "deal_type": "Commission", "pay": "30% recurring, up to 50% at volume", "url": "https://www.aweber.com/advocates.htm", "checked": "2026-10-18"},
     {"brand": "ElevenLabs", "niche": "AI tools", "deal_type": "Commission", "pay": "Up to 22% for 12 months", "url": "https://elevenlabs.io/affiliates", "checked": "2026-10-18"},
     {"brand": "HeyGen", "niche": "AI tools", "deal_type": "Commission", "pay": "35% recurring for 3 months (50% bonus through Oct 31)", "url": "https://www.heygen.com/affiliate", "checked": "2026-10-18"},
-    {"brand": "Amazon Associates", "niche": "Shopping", "deal_type": "Commission", "pay": "Up to 10% by category", "url": "https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ"},
-    {"brand": "SiteGround", "niche": "Web hosting", "deal_type": "Flat fee", "pay": "$50 to $100 per hosting sale + 60% of first year on other services", "url": "https://www.siteground.com/affiliates"},
-    {"brand": "DreamHost", "niche": "Web hosting", "deal_type": "Flat fee", "pay": "Up to $1,000 per referral", "url": "https://www.dreamhost.com/affiliates/"},
-    {"brand": "Thinkific", "niche": "Online courses", "deal_type": "Commission", "pay": "30% lifetime recurring ($150/mo on Plus plans)", "url": "https://www.thinkific.com/affiliates/"},
-    {"brand": "beehiiv", "niche": "Email / newsletters", "deal_type": "Commission", "pay": "50% to 60% for 12 months", "url": "https://www.beehiiv.com/partners"},
+    {"brand": "Amazon Associates", "niche": "Shopping", "deal_type": "Commission", "pay": "Up to 10% by category", "url": "https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ", "checked": "2026-10-19"},
+    {"brand": "SiteGround", "niche": "Web hosting", "deal_type": "Flat fee", "pay": "$50 to $100 per hosting sale + 60% of first year on other services", "url": "https://www.siteground.com/affiliates", "checked": "2026-10-19"},
+    {"brand": "DreamHost", "niche": "Web hosting", "deal_type": "Flat fee", "pay": "Up to $1,000 per referral", "url": "https://www.dreamhost.com/affiliates/", "checked": "2026-10-19"},
+    {"brand": "Thinkific", "niche": "Online courses", "deal_type": "Commission", "pay": "30% lifetime recurring ($150/mo on Plus plans)", "url": "https://www.thinkific.com/affiliates/", "checked": "2026-10-19"},
+    {"brand": "beehiiv", "niche": "Email / newsletters", "deal_type": "Commission", "pay": "50% to 60% for 12 months", "url": "https://www.beehiiv.com/partners", "checked": "2026-10-19"},
     {"brand": "Semrush", "niche": "Marketing tools", "deal_type": "Flat fee", "pay": "$50 to $450 per sale + $10 per trial", "url": "https://www.semrush.com/lp/affiliate-program/en/"},
     {"brand": "WP Engine", "niche": "Web hosting", "deal_type": "Flat fee", "pay": "$100 per Lite plan; $200+ on other plans", "url": "https://www.wpengine.com/affiliate-program/"},
     {"brand": "Leadpages", "niche": "Marketing tools", "deal_type": "Flat fee", "pay": "Up to $400 per referral", "url": "https://www.leadpages.com/affiliates"},
@@ -47,7 +47,9 @@
     {"brand": "Descript", "niche": "Podcast / video tools", "deal_type": "Flat fee", "pay": "$25 per new subscriber", "url": "https://www.descript.com/affiliate", "new": true, "added": "2026-10-17"},
     {"brand": "Pictory", "niche": "AI tools", "deal_type": "Commission", "pay": "40% of first payment (one-time)", "url": "https://partners.pictory.ai/signup/40690", "new": true, "added": "2026-10-17"},
     {"brand": "Kajabi", "niche": "Courses / memberships", "deal_type": "Commission", "pay": "30% lifetime recurring", "url": "https://partners.kajabi.com/pp", "new": true, "added": "2026-10-18", "checked": "2026-10-18"},
-    {"brand": "Podia", "niche": "Courses / digital products", "deal_type": "Commission", "pay": "30% for 12 months", "url": "https://help.podia.com/en/articles/11370941-becoming-a-podia-affiliate", "new": true, "added": "2026-10-18", "checked": "2026-10-18"}
+    {"brand": "Podia", "niche": "Courses / digital products", "deal_type": "Commission", "pay": "30% for 12 months", "url": "https://help.podia.com/en/articles/11370941-becoming-a-podia-affiliate", "new": true, "added": "2026-10-18", "checked": "2026-10-18"},
+    {"brand": "Printful", "niche": "E-commerce", "deal_type": "Commission", "pay": "10% of referrals' orders for 12 months", "url": "https://www.printful.com/affiliates", "new": true, "added": "2026-10-19", "checked": "2026-10-19"},
+    {"brand": "Cloudways", "niche": "Web hosting", "deal_type": "Flat fee", "pay": "Up to $125 per sale, or $30 per sale + 7% lifetime", "url": "https://www.cloudways.com/en/web-hosting-affiliate-program", "new": true, "added": "2026-10-19", "checked": "2026-10-19"}
   ],
   "sponsors": [
     {"brand": "TECNO", "niche": "Tech / phones", "url": "https://www.tecno-mobile.com/"},
