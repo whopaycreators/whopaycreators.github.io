@@ -51,7 +51,8 @@
     {"brand": "Printful", "niche": "E-commerce", "deal_type": "Commission", "pay": "10% of referrals' orders for 12 months", "url": "https://www.printful.com/affiliates", "new": true, "added": "2026-10-19", "checked": "2026-10-19"},
     {"brand": "Cloudways", "niche": "Web hosting", "deal_type": "Flat fee", "pay": "Up to $125 per sale, or $30 per sale + 7% lifetime", "url": "https://www.cloudways.com/en/web-hosting-affiliate-program", "new": true, "added": "2026-10-19", "checked": "2026-10-19"},
     {"brand": "VEED", "niche": "Podcast / video tools", "deal_type": "Commission", "pay": "20% recurring (up to 50% with performance bonuses)", "url": "https://www.veed.io/affiliate", "new": true, "added": "2026-10-20", "checked": "2026-10-20"},
-    {"brand": "InVideo", "niche": "Podcast / video tools", "deal_type": "Commission", "pay": "50% on monthly plans, 25% on annual plans", "url": "https://invideo.io/make/affiliate-program/", "new": true, "added": "2026-10-20", "checked": "2026-10-20"}
+    {"brand": "InVideo", "niche": "Podcast / video tools", "deal_type": "Commission", "pay": "50% on monthly plans, 25% on annual plans", "url": "https://invideo.io/make/affiliate-program/", "new": true, "added": "2026-10-20", "checked": "2026-10-20"},
+    {"brand": "Koinly", "niche": "Crypto / finance", "deal_type": "Commission", "pay": "20% commission on referrals, tracked for life", "url": "https://koinly.io/affiliate/", "new": true, "added": "2026-10-20", "checked": "2026-10-20"}
   ],
   "sponsors": [
     {"brand": "TECNO", "niche": "Tech / phones", "url": "https://www.tecno-mobile.com/"},
