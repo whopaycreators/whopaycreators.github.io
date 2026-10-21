@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "free_count": 5,
   "free_brands": ["systeme.io", "Shopify", "HubSpot", "Kinsta", "Hostinger"],
   "programs": [
@@ -28,16 +28,16 @@
     {"brand": "DreamHost", "niche": "Web hosting", "deal_type": "Flat fee", "pay": "Up to $1,000 per referral", "url": "https://www.dreamhost.com/affiliates/", "checked": "2026-10-19"},
     {"brand": "Thinkific", "niche": "Online courses", "deal_type": "Commission", "pay": "30% lifetime recurring ($150/mo on Plus plans)", "url": "https://www.thinkific.com/affiliates/", "checked": "2026-10-19"},
     {"brand": "beehiiv", "niche": "Email / newsletters", "deal_type": "Commission", "pay": "50% to 60% for 12 months", "url": "https://www.beehiiv.com/partners", "checked": "2026-10-19"},
-    {"brand": "Semrush", "niche": "Marketing tools", "deal_type": "Flat fee", "pay": "$50 to $450 per sale + $10 per trial", "url": "https://www.semrush.com/lp/affiliate-program/en/"},
+    {"brand": "Semrush", "niche": "Marketing tools", "deal_type": "Flat fee", "pay": "$100 to $450 per sale + $10 per trial", "url": "https://www.semrush.com/lp/affiliate-program/en/", "checked": "2026-10-21"},
     {"brand": "WP Engine", "niche": "Web hosting", "deal_type": "Flat fee", "pay": "$100 per Lite plan; $200+ on other plans", "url": "https://www.wpengine.com/affiliate-program/", "checked": "2026-10-20"},
     {"brand": "Leadpages", "niche": "Marketing tools", "deal_type": "Flat fee", "pay": "Up to $400 per referral", "url": "https://www.leadpages.com/affiliates", "checked": "2026-10-20"},
     {"brand": "ClickFunnels", "niche": "Marketing tools", "deal_type": "Commission", "pay": "30% monthly recurring", "url": "https://www.clickfunnels.com/affiliates", "checked": "2026-10-20"},
     {"brand": "ActiveCampaign", "niche": "Email / newsletters", "deal_type": "Commission", "pay": "20% to 30% recurring", "url": "https://www.activecampaign.com/partner/affiliate", "checked": "2026-10-20"},
     {"brand": "Moosend", "niche": "Email / newsletters", "deal_type": "Commission", "pay": "30% to 40% lifetime recurring", "url": "https://www.moosend.com/affiliate-program/", "checked": "2026-10-20"},
-    {"brand": "Writesonic", "niche": "AI tools", "deal_type": "Commission", "pay": "20% recurring for 12 months", "url": "https://www.writesonic.com/affiliate"},
-    {"brand": "Murf AI", "niche": "AI tools", "deal_type": "Commission", "pay": "20% recurring for 24 months", "url": "https://www.murf.ai/affiliate-program"},
-    {"brand": "Surfer SEO", "niche": "Marketing tools", "deal_type": "Commission", "pay": "75% to 125% of first monthly payment", "url": "https://www.surferseo.com/affiliate-program/"},
-    {"brand": "Tidio", "niche": "Business software", "deal_type": "Commission", "pay": "Up to 30%", "url": "https://www.tidio.com/affiliate-program/"},
+    {"brand": "Writesonic", "niche": "AI tools", "deal_type": "Commission", "pay": "20% recurring for 12 months", "url": "https://www.writesonic.com/affiliate", "checked": "2026-10-21"},
+    {"brand": "Murf AI", "niche": "AI tools", "deal_type": "Commission", "pay": "20% recurring for 24 months", "url": "https://www.murf.ai/affiliate-program", "checked": "2026-10-21"},
+    {"brand": "Surfer SEO", "niche": "Marketing tools", "deal_type": "Commission", "pay": "75% to 125% of first monthly payment", "url": "https://www.surferseo.com/affiliate-program/", "checked": "2026-10-21"},
+    {"brand": "Tidio", "niche": "Business software", "deal_type": "Commission", "pay": "Up to 30%", "url": "https://www.tidio.com/partners/affiliate/", "checked": "2026-10-21"},
     {"brand": "FreshBooks", "niche": "Finance", "deal_type": "Flat fee", "pay": "Up to $200 per sale (not open to social-only creators)", "url": "https://www.freshbooks.com/affiliates"},
     {"brand": "Kraken", "niche": "Crypto / finance", "deal_type": "Revenue share", "pay": "Up to 50% revenue share", "url": "https://www.kraken.com/affiliate"},
     {"brand": "Skillshare", "niche": "Online courses", "deal_type": "Commission", "pay": "20%, up to $34 per new customer", "url": "https://www.skillshare.com/en/affiliates"},
@@ -52,7 +52,9 @@
     {"brand": "Cloudways", "niche": "Web hosting", "deal_type": "Flat fee", "pay": "Up to $125 per sale, or $30 per sale + 7% lifetime", "url": "https://www.cloudways.com/en/web-hosting-affiliate-program", "new": true, "added": "2026-10-19", "checked": "2026-10-19"},
     {"brand": "VEED", "niche": "Podcast / video tools", "deal_type": "Commission", "pay": "20% recurring (up to 50% with performance bonuses)", "url": "https://www.veed.io/affiliate", "new": true, "added": "2026-10-20", "checked": "2026-10-20"},
     {"brand": "InVideo", "niche": "Podcast / video tools", "deal_type": "Commission", "pay": "50% on monthly plans, 25% on annual plans", "url": "https://invideo.io/make/affiliate-program/", "new": true, "added": "2026-10-20", "checked": "2026-10-20"},
-    {"brand": "Koinly", "niche": "Crypto / finance", "deal_type": "Commission", "pay": "20% commission on referrals, tracked for life", "url": "https://koinly.io/affiliate/", "new": true, "added": "2026-10-20", "checked": "2026-10-20"}
+    {"brand": "Koinly", "niche": "Crypto / finance", "deal_type": "Commission", "pay": "20% commission on referrals, tracked for life", "url": "https://koinly.io/affiliate/", "new": true, "added": "2026-10-20", "checked": "2026-10-20"},
+    {"brand": "Metricool", "niche": "Marketing tools", "deal_type": "Commission", "pay": "25% of subscriptions, up to $100 per user", "url": "https://metricool.com/affiliate-program/", "new": true, "added": "2026-10-21", "checked": "2026-10-21"},
+    {"brand": "Adobe Podcast", "niche": "Podcast / video tools", "deal_type": "Commission", "pay": "85% of first month (monthly plan) or 8.33% of first year (annual)", "url": "https://podcast.adobe.com/en/guides/adobe-podcast-affiliate-program", "new": true, "added": "2026-10-21", "checked": "2026-10-21"}
   ],
   "sponsors": [
     {"brand": "TECNO", "niche": "Tech / phones", "url": "https://www.tecno-mobile.com/"},
