@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "free_count": 5,
   "free_brands": ["systeme.io", "Shopify", "HubSpot", "Kinsta", "Hostinger"],
   "programs": [
@@ -38,11 +38,11 @@
     {"brand": "Murf AI", "niche": "AI tools", "deal_type": "Commission", "pay": "20% recurring for 24 months", "url": "https://www.murf.ai/affiliate-program", "checked": "2026-10-21"},
     {"brand": "Surfer SEO", "niche": "Marketing tools", "deal_type": "Commission", "pay": "75% to 125% of first monthly payment", "url": "https://www.surferseo.com/affiliate-program/", "checked": "2026-10-21"},
     {"brand": "Tidio", "niche": "Business software", "deal_type": "Commission", "pay": "Up to 30%", "url": "https://www.tidio.com/partners/affiliate/", "checked": "2026-10-21"},
-    {"brand": "FreshBooks", "niche": "Finance", "deal_type": "Flat fee", "pay": "Up to $200 per sale (not open to social-only creators)", "url": "https://www.freshbooks.com/affiliates"},
-    {"brand": "Kraken", "niche": "Crypto / finance", "deal_type": "Revenue share", "pay": "Up to 50% revenue share", "url": "https://www.kraken.com/affiliate"},
-    {"brand": "Skillshare", "niche": "Online courses", "deal_type": "Commission", "pay": "20%, up to $34 per new customer", "url": "https://www.skillshare.com/en/affiliates"},
-    {"brand": "Coursera", "niche": "Online courses", "deal_type": "Commission", "pay": "15% to 45% on eligible purchases", "url": "https://www.coursera.org/about/affiliates"},
-    {"brand": "Teachable", "niche": "Online courses", "deal_type": "Commission", "pay": "30% recurring for 12 months", "url": "https://www.teachable.com/partners", "new": true, "added": "2026-10-16"},
+    {"brand": "FreshBooks", "niche": "Finance", "deal_type": "Flat fee", "pay": "Up to $200 per sale (not open to social-only creators)", "url": "https://www.freshbooks.com/affiliates", "checked": "2026-10-22"},
+    {"brand": "Kraken", "niche": "Crypto / finance", "deal_type": "Revenue share", "pay": "Up to 50% revenue share", "url": "https://www.kraken.com/affiliate", "checked": "2026-10-22"},
+    {"brand": "Skillshare", "niche": "Online courses", "deal_type": "Commission", "pay": "20%, up to $34 per new customer", "url": "https://www.skillshare.com/en/affiliates", "checked": "2026-10-22"},
+    {"brand": "Coursera", "niche": "Online courses", "deal_type": "Commission", "pay": "15% to 45% on eligible purchases", "url": "https://www.coursera.org/about/affiliates", "checked": "2026-10-22"},
+    {"brand": "Teachable", "niche": "Online courses", "deal_type": "Commission", "pay": "30% recurring for 12 months", "url": "https://www.teachable.com/partners", "new": true, "added": "2026-10-16", "checked": "2026-10-22"},
     {"brand": "MailerLite", "niche": "Email / newsletters", "deal_type": "Commission", "pay": "30% recurring for life", "url": "https://www.mailerlite.com/affiliate", "new": true, "added": "2026-10-16"},
     {"brand": "Descript", "niche": "Podcast / video tools", "deal_type": "Flat fee", "pay": "$25 per new subscriber", "url": "https://www.descript.com/affiliate", "new": true, "added": "2026-10-17"},
     {"brand": "Pictory", "niche": "AI tools", "deal_type": "Commission", "pay": "40% of first payment (one-time)", "url": "https://partners.pictory.ai/signup/40690", "new": true, "added": "2026-10-17"},
@@ -54,7 +54,9 @@
     {"brand": "InVideo", "niche": "Podcast / video tools", "deal_type": "Commission", "pay": "50% on monthly plans, 25% on annual plans", "url": "https://invideo.io/make/affiliate-program/", "new": true, "added": "2026-10-20", "checked": "2026-10-20"},
     {"brand": "Koinly", "niche": "Crypto / finance", "deal_type": "Commission", "pay": "20% commission on referrals, tracked for life", "url": "https://koinly.io/affiliate/", "new": true, "added": "2026-10-20", "checked": "2026-10-20"},
     {"brand": "Metricool", "niche": "Marketing tools", "deal_type": "Commission", "pay": "25% of subscriptions, up to $100 per user", "url": "https://metricool.com/affiliate-program/", "new": true, "added": "2026-10-21", "checked": "2026-10-21"},
-    {"brand": "Adobe Podcast", "niche": "Podcast / video tools", "deal_type": "Commission", "pay": "85% of first month (monthly plan) or 8.33% of first year (annual)", "url": "https://podcast.adobe.com/en/guides/adobe-podcast-affiliate-program", "new": true, "added": "2026-10-21", "checked": "2026-10-21"}
+    {"brand": "Adobe Podcast", "niche": "Podcast / video tools", "deal_type": "Commission", "pay": "85% of first month (monthly plan) or 8.33% of first year (annual)", "url": "https://podcast.adobe.com/en/guides/adobe-podcast-affiliate-program", "new": true, "added": "2026-10-21", "checked": "2026-10-21"},
+    {"brand": "Buffer", "niche": "Social media tools", "deal_type": "Commission", "pay": "25% for 12 months", "url": "https://buffer.com/partners", "new": true, "added": "2026-10-22"},
+    {"brand": "Restream", "niche": "Live streaming", "deal_type": "Flat fee", "pay": "$10 per paid referral", "url": "https://support.restream.io/en/articles/4893782-restream-referral-program", "new": true, "added": "2026-10-22"}
   ],
   "sponsors": [
     {"brand": "TECNO", "niche": "Tech / phones", "url": "https://www.tecno-mobile.com/"},
